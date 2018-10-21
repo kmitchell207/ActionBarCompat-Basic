@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gmitchell/AndroidStudioProjects/CS_1530/ActionBarCompat-Basic/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/gmitchell/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f19e3fd6b4c0d62cc56a22ac63441fcb/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
